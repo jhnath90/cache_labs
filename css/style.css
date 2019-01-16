@@ -24,10 +24,15 @@ body {
   color: #5c5c77;
 }
 
+.nav-item {
+  padding-right: 35px;
+}
+
 #faq {
   padding-top: 20px;
   padding-bottom: 20px;
-  padding-right: 30px;
+  padding-right: 60px;
+  padding-left: 25px;
 }
 
 #html5_logo {
